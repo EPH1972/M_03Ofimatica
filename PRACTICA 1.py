@@ -4,7 +4,7 @@ if dinero < 11 :
 else:
   print ("Tengo dinero suficiente")
 
-  Jamon = input("¿Has comprado jamon?")
+Jamon = input("¿Has comprado jamon?")
 Abduccion = input("¿Te han abducido?")
 Dia = input("¿Hoy es jueves?")
 Estudiar = input("¿Has estudiado mucho?")
