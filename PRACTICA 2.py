@@ -8,7 +8,7 @@ else:
 
 edad = int(input("¿Dime tu edad?"))
 sexo = input("¿Eres H o M?")
-color = int(input("¿Cual es el color de tu pelo? (Rubio, Pelirojo, Moreno)"))
+color = input("¿Cual es el color de tu pelo?"))
 jubilado=input("¿Te has jubilado?")
 if ((sexo=="H")and(jubilado=="no")):
     print("Preció: 1€")
