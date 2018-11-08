@@ -1,6 +1,6 @@
 Anyo_actual = int(input("En que año estamos:"))
 Anyo_cualquiera = int(input("Dime un año cualquiera:"))
-if(Anyo_actual == 0)or(Anyo_cualquiera == 0):
+if(Anyo_actual == 0) or (Anyo_cualquiera == 0):
     print("El año 0 no existe")
 else:
        if (Anyo_actual == Anyo_cualquiera):
