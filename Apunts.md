@@ -3,7 +3,7 @@
    <li><strong>Formato condicional:</strong> clasifica valors en función del color que le asignes</li>
    <li><strong>Autofiltro:</strong> te ayuda a llevar un registro de tus datos</li>
    <li><strong>Media ponderada:</strong> se le asigna un porcentage a cada uno de los valores que tengas, multiplicas el valor por el porcentage correspondiente, después los sumas todos y los divides entre cien</li>
-   <strong><Media ponderada/strong> 9*(30/100)+7*(25/100)+8*(25/100)+7*(20/100)
+   <strong>Media ponderada</strong> 9*(30/100)+7*(25/100)+8*(25/100)+7*(20/100)
    <li><strong>=SUM:</strong> suma todos los números de las celdas seleccionadas</li>
    <li><strong>=MAX:</strong> escoge el número mas grande de las celdas seleccionadas</li>
    <li><strong>=MIN:</strong> escoge el número mas pequeño de las celdas seleccionadas</li>
