@@ -14,7 +14,7 @@
    </ul>
 <h2 id="título">Porcentaje, Descuento, Recargo y IVA</h2>
 
-<strong>Porcentaje</strong> 88€ 14% Formula Larga: 88·(14/100) Formula Corta 88.0'14
+<strong>Porcentaje</strong> 88€ 14% Formula Larga: 88·(14/100) Formula Corta 88·0'14
 
 <strong>Descuento</strong> 88€ 14% Formula Larga: Precio-(Precio·0'14) Formula Corta Precio·(1-0'14) 100-14=86 Precio·0'86
 
