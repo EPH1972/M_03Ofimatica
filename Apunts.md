@@ -26,12 +26,12 @@
 
 <h2 id="título">Paradigma per fer bé un codi en Python</h2>
 
-<strong>Primer pas</strong> Llegir i comprendre els receriments.
+<strong>Primer pas:</strong> Llegir i comprendre els receriments.
 
-<strong>Segon pas</strong> Detectar les variables.
+<strong>Segon pas:</strong> Detectar les variables.
 
-<strong>Tercer pas</strong> Fer el joc de proves complet.
+<strong>Tercer pas:</strong> Fer el joc de proves complet.
 
-<strong>Quart pas</strong> Codificar a Python a paper i al git.
+<strong>Quart pas:</strong> Codificar a Python a paper i al git.
 
-<strong>Cique pas</strong> Probar i retocar fins que funcioni tal i com volem.
+<strong>Cique pas:</strong> Probar i retocar fins que funcioni tal i com volem.
